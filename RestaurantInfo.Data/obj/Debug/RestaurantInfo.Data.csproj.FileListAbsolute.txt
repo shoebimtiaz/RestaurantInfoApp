@@ -1,0 +1,15 @@
+C:\Users\shoeb\source\repos\RestaurantInfoApplication\RestaurantInfo.Data\bin\Debug\RestaurantInfo.Data.dll
+C:\Users\shoeb\source\repos\RestaurantInfoApplication\RestaurantInfo.Data\bin\Debug\RestaurantInfo.Data.pdb
+C:\Users\shoeb\source\repos\RestaurantInfoApplication\RestaurantInfo.Data\obj\Debug\RestaurantInfo.Data.csprojAssemblyReference.cache
+C:\Users\shoeb\source\repos\RestaurantInfoApplication\RestaurantInfo.Data\obj\Debug\RestaurantInfo.Data.csproj.CoreCompileInputs.cache
+C:\Users\shoeb\source\repos\RestaurantInfoApplication\RestaurantInfo.Data\obj\Debug\RestaurantInfo.Data.dll
+C:\Users\shoeb\source\repos\RestaurantInfoApplication\RestaurantInfo.Data\obj\Debug\RestaurantInfo.Data.pdb
+C:\Users\shoeb\source\repos\RestaurantInfoApplication\RestaurantInfo.Data\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\shoeb\source\repos\RestaurantInfoApplication\RestaurantInfo.Data\bin\Debug\System.Security.AccessControl.dll
+C:\Users\shoeb\source\repos\RestaurantInfoApplication\RestaurantInfo.Data\bin\Debug\System.Security.Permissions.dll
+C:\Users\shoeb\source\repos\RestaurantInfoApplication\RestaurantInfo.Data\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\shoeb\source\repos\RestaurantInfoApplication\RestaurantInfo.Data\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\shoeb\source\repos\RestaurantInfoApplication\RestaurantInfo.Data\bin\Debug\System.Security.AccessControl.xml
+C:\Users\shoeb\source\repos\RestaurantInfoApplication\RestaurantInfo.Data\bin\Debug\System.Security.Permissions.xml
+C:\Users\shoeb\source\repos\RestaurantInfoApplication\RestaurantInfo.Data\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\shoeb\source\repos\RestaurantInfoApplication\RestaurantInfo.Data\obj\Debug\RestaurantInfo.Data.csproj.CopyComplete
